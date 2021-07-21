@@ -15,3 +15,4 @@ Tools I utilized that I did not create. Thank you so much to the creators!!
 * PowerSploit: https://github.com/PowerShellMafia/PowerSploit 
 
 # Repeatedly used commands 
+* https://github.com/RomanRII/OSEP-Tooling/blob/main/repeated-commands.md
