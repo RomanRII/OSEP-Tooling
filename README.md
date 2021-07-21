@@ -13,3 +13,5 @@ Tools I utilized that I did not create. Thank you so much to the creators!!
 * Rubeus: https://github.com/GhostPack/Rubeus 
 * PowerMad: https://github.com/Kevin-Robertson/Powermad 
 * PowerSploit: https://github.com/PowerShellMafia/PowerSploit 
+
+# Repeatedly used commands 
